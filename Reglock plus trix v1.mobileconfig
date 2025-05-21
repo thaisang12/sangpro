@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item2</key>
+	<dict>
+		<key>BuildVersion</key>
+		<string>21B150</string>
+		<key>Device Optimization iphone7plus ios version 15.8.4</key>
+		<string>40</string>
+		<key>PayloadDisplayName</key>
+		<string>Tối Ưu IPhone7plus</string>
+		<key>ProductCopyright</key>
+		<string>iPhone 7plus+ Apple</string>
+		<key>ProductName</key>
+		<string>iPhone 7plus</string>
+		<key>ProductVersion</key>
+		<string>iOS 15.8.4</string>
+		<key>SystemImageID</key>
+		<string>35 583808 959885 2</string>
+		<key>com.iphone.com.dts.freefire//More Work When Attaching Head To Gunpoint{=1.1}</key>
+		<string>10</string>
+		<key>com.iphone.com.dts.freefire//Vibrating Sight Changed To Vibrating Sight{value=1.2}</key>
+		<string>20</string>
+		<key>com.iphone.com.dts.freefire//When Pulling the Bullet's Centerline Slips Off the NPC's Head Area, Change to Pin Pulling the Bullet's Centerline Sticks to the NPC's and Player's Heads{value=1}</key>
+		<string>15</string>
+		<key>com.iphone.com.dts.freefire//When pulling the center, the gun becomes heavy and becomes light and stable when pulling the center{value=1.09}</key>
+		<string>20</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Com.dts.freefire</key>
+			<string>The Mind of No Attachment changes to the Mind of Attachment</string>
+			<key>Information</key>
+			<dict>
+				<key>Date Created File</key>
+				<date>2024-05-11T08:31:47Z</date>
+				<key>IMEI</key>
+				<string>New string</string>
+				<key>SERIAL</key>
+				<string>New string</string>
+				<key>UDID</key>
+				<string>New string</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>@bkhanhioscheat</string>
+			<key>PayloadIdentifier</key>
+			<string>com.3dtouch.all
+com.selectsystem.android
+com.flexsystem.wide
+com.highsetting.android
+com.higheanalytics.ips
+com.gboardpointerspeed.full</string>
+			<key>PayloadRemovalDisallowed</key>
+			<true/>
+			<key>PayloadType</key>
+			<string>com.3dtouch.all
+com.selectsystem.android
+com.flexsystem.wide
+com.highsetting.android
+com.higheanalytics.ips
+com.gboardpointerspeed.full/ON</string>
+			<key>PayloadUUID</key>
+			<string>0000</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>System/Library/Frameworks</key>
+			<string>QWltbG9jawoKCgo8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pgo8cHJvamVjdCB2ZXJzaW9uPSIxIj4gI21vIGJhaQogIDxjb21wb25lbnQgbmFtZT0iIiBKYXZhVmVyc2lvbj0iMSIgLz4gIAogICAgICAgPC9vcHRpb24+CiAgIDxjb21wb25lbnQgbmFtZT0iIldyaXRlU2V0dGluZ0hpZGVWZXJzaW9uPSIxIiAvPgogICAgICA8b3B0aW9uIG5hbWU9ImJpbi5tdC5wbHVzIj4KICAgICAgPEFzc2V0JERhdGFBc3NldD4KICAgICAgICA8b3B0aW9uIG5hbWU9ImV4dGVybmFsRGF0YUFzc2V0IiBzdHJpbmdzPSIkV1JJVEVfRVhURVJOQUxTJCIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5hbmRyb2lkLmFjY2Vzc3BvaW50ZXJuZXR3b3JrIiBzdHJpbmdzPSIjV1JJVEVfRVhURU5BTF9TRVRUSU5HX1BFUk1JU1NJT04iIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uYW5kcm9pZC5BQ0NFU1NfUE9JTlRFUl9TUEVFRCIgc3RyaW5ncz0iI1dSSVRFX0VYVEVOQUxfU0VUVElOR19QRVJNSVNTSU9OIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iQ09NUFJFU1MiIHN0cmluZ3M9InRydWUiIC8+CiAgICAgIDwvQXNzZXQkRGF0YUFzc2V0PgogICAgICAgPC9vcHRpb24+CiAgPGNvbXBvbmVudCBuYW1lPSIiIEphdmFWZXJzaW9uPSIxIiAvPiAgCiAgPC9wcm9qZWN0Pgo8cHJvamVjdCB2ZXJzaW9uPSIyIj4gI3RoYW4gYmFpCiAgICAgIDxBc3NldCREYXRhQXNzZXQ+IzEKICAgICAgICA8b3B0aW9uIG5hbWU9Im9uPTEiIHN0cmluZ3M9IiRXUklURV9GSUxFJCIgLz4KIDxvcHRpb24gbmFtZT0ib2ZmPTAiIApzdHJpbmdzPSIkV1JJVEVfRklMRSQiIC8+CiAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5hY3RfY29uZl9zZWNsZWN0X3N5bmNfZGV2aWNlX2FjdF9hbGxvdy5maWxlX2NvZGVfdW5sb2NrX2Nvbm5lY3RJbmplY3RfIFJEUl9haW1Mb2NrQmFzZTY0XzB4NzYwOEYwX3NldF9vbl9hdXRvX2N3cy51bmNyYWNrLmxpc3Q9MSIgc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0iY29tLmFjdF9jb25mX3NlY2xlY3Rfc3luY19kZXZpY2VfYWN0X2FsbG93LmZpbGVfY29kZV91bmxvY2tfY29ubmVjdEluamVjdF8gUkRSX2FpbUxvY2tCYXNlNjRfMHg3NjA4RjBfc2V0X29uX2F1dG9fY3dzLnVuY3JhY2subGlzdD0xIgpzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJjb20uYWN0X2NvbmZfc2VjbGVjdF9zeW5jX2RldmljZV9hY3RfYWxsb3cuZmlsZV9jb2RlX3VubG9ja19jb25uZWN0SW5qZWN0XyBSRFJfYWltTG9ja0Jhc2U2NF8weDc2MDhGMF9zZXRfb25fYXV0b19jd3MudW5jcmFjay5saXN0PTEiIHN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9IkR1Y05hbSIgYm9vbGVhbj0iMSIgLz4KICAgICAgPEFzc2V0JERhdGFBc3NldD4KICA8L3Byb2plY3Q+Cjxwcm9qZWN0IHZlcnNpb249IjMiPiAja2V0IGJhaQogICAgICA8QXNzZXQkRGF0YUFzc2V0PiAKIDxvcHRpb24gbmFtZT0iYWNwX2NsaWNrPTEiIHN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9Im9uX2NvbS5kdHMuZnJlZWZpcmV0aF9sYXVuY2hlcj0xIiBzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJjb20ucmVzdG9yZS1kZXZpY2UubGF1bmNoZXI9MSIgc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0iRHVjTmFtIiBib29sZWFuPSIxIiAvPgogICAgICA8QXNzZXQkRGF0YUFzc2V0PgogIDwvcHJvamVjdD4KCgoKQWltbG9jayAKCgoKPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgdmVyc2lvbj0iMSI+ICNtbyBiYWkKICA8Y29tcG9uZW50IG5hbWU9IiIgSmF2YVZlcnNpb249IjEiIC8+ICAKICAgICAgIDwvb3B0aW9uPgogICA8Y29tcG9uZW50IG5hbWU9IiJXcml0ZVNldHRpbmdIaWRlVmVyc2lvbj0iMSIgLz4KICAgICAgPG9wdGlvbiBuYW1lPSIiPgogICAgICA8QXNzZXQkRGF0YUFzc2V0PgogICAgICAgIDxvcHRpb24gbmFtZT0iZXh0ZXJuYWxEYXRhQXNzZXQiIHN0cmluZ3M9IiRXUklURV9FWFRFUk5BTFMkIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmFuZHJvaWQuYWNjZXNzcG9pbnRlcm5ldHdvcmsiIHN0cmluZ3M9IiNXUklURV9FWFRFTkFMX1NFVFRJTkdfUEVSTUlTU0lPTiIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9ImNvbS5hbmRyb2lkLkFDQ0VTU19QT0lOVEVSX1NQRUVEIiBzdHJpbmdzPSIjV1JJVEVfRVhURU5BTF9TRVRUSU5HX1BFUk1JU1NJT04iIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJDT01QUkVTUyIgc3RyaW5ncz0idHJ1ZSIgLz4KICAgICAgPC9Bc3NldCREYXRhQXNzZXQ+CiAgICAgICA8L29wdGlvbj4KICA8Y29tcG9uZW50IG5hbWU9IiIgSmF2YVZlcnNpb249IjEiIC8+ICAKICA8L3Byb2plY3Q+Cjxwcm9qZWN0IHZlcnNpb249IjIiPiAjdGhhbiBiYWkKICAgICAgPEFzc2V0JERhdGFBc3NldD4jMQogICAgICAgIDxvcHRpb24gbmFtZT0ib249MSIgc3RyaW5ncz0iJFdSSVRFX0ZJTEUkIiAvPgogPG9wdGlvbiBuYW1lPSJvZmY9MCIgCnN0cmluZ3M9IiRXUklURV9GSUxFJCIgLz4KICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmFjdF9jb25mX3NlY2xlY3Rfc3luY19kZXZpY2VfYWN0X2FsbG93LmZpbGVfY29kZV91bmxvY2tfY29ubmVjdEluamVjdF8gT3B0aW1hbEFpbWxvY2tmZmJhc2V4NjRfc2V0X29uX2F1dG9fY3dzLnVuY3JhY2suc3RyaW5ncz0xIiBzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJjb20uYWN0X2NvbmZfc2VjbGVjdF9zeW5jX2RldmljZV9hY3RfYWxsb3cuZmlsZV9jb2RlX3VubG9ja19jb25uZWN0SW5qZWN0XyBPcHRpbWFsQWltbG9ja2ZmYmFzZXg2NF9zZXRfb25fYXV0b19jd3MudW5jcmFjay5zdHJpbmdzPTEiCnN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9ImNvbS5hY3RfY29uZl9zZWNsZWN0X3N5bmNfZGV2aWNlX2FjdF9hbGxvdy5maWxlX2NvZGVfdW5sb2NrX2Nvbm5lY3RJbmplY3RfIE9wdGltYWxBaW1sb2NrZmZiYXNleDY0X3NldF9vbl9hdXRvX2N3cy51bmNyYWNrLnN0cmluZ3M9MSIgc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0iRHVjTmFtIiBib29sZWFuPSIxIiAvPgogICAgICA8QXNzZXQkRGF0YUFzc2V0PgogIDwvcHJvamVjdD4KPHByb2plY3QgdmVyc2lvbj0iMyI+ICNrZXQgYmFpCiAgICAgIDxBc3NldCREYXRhQXNzZXQ+IAogPG9wdGlvbiBuYW1lPSJhY3BfY2xpY2s9MSIgc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0ib25fY29tLmR0cy5mcmVlZmlyZXRoX2xhdW5jaGVyPTEiIHN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9ImNvbS5yZXN0b3JlLWRldmljZS5sYXVuY2hlcj0xIiBzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJEdWNOYW0iIGJvb2xlYW49IjEiIC8+CiAgICAgIDxBc3NldCREYXRhQXNzZXQ+CiAgPC9wcm9qZWN0PgoKCgoKQWltbG9jawoKCgoKCgo8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pgo8cHJvamVjdCB2ZXJzaW9uPSIxIj4gI21vIGJhaQogIDxjb21wb25lbnQgbmFtZT0iIiBKYXZhVmVyc2lvbj0iMSIgLz4gIAogICAgICAgPC9vcHRpb24+CiAgIDxjb21wb25lbnQgbmFtZT0iIldyaXRlU2V0dGluZ0hpZGVWZXJzaW9uPSIxIiAvPgogICAgICA8b3B0aW9uIG5hbWU9IiI+CiAgICAgIDxBc3NldCREYXRhQXNzZXQ+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJleHRlcm5hbERhdGFBc3NldCIgc3RyaW5ncz0iJFdSSVRFX0VYVEVSTkFMUyQiIC8+CiAgICAgICAgPG9wdGlvbiBuYW1lPSJjb20uYW5kcm9pZC5hY2Nlc3Nwb2ludGVybmV0d29yayIgc3RyaW5ncz0iI1dSSVRFX0VYVEVOQUxfU0VUVElOR19QRVJNSVNTSU9OIiAvPgogICAgICAgIDxvcHRpb24gbmFtZT0iY29tLmFuZHJvaWQuQUNDRVNTX1BPSU5URVJfU1BFRUQiIHN0cmluZ3M9IiNXUklURV9FWFRFTkFMX1NFVFRJTkdfUEVSTUlTU0lPTiIgLz4KICAgICAgICA8b3B0aW9uIG5hbWU9IkNPTVBSRVNTIiBzdHJpbmdzPSJ0cnVlIiAvPgogICAgICA8L0Fzc2V0JERhdGFBc3NldD4KICAgICAgIDwvb3B0aW9uPgogIDxjb21wb25lbnQgbmFtZT0iIiBKYXZhVmVyc2lvbj0iMSIgLz4gIAogIDwvcHJvamVjdD4KPHByb2plY3QgdmVyc2lvbj0iMiI+ICN0aGFuIGJhaQogICAgICA8QXNzZXQkRGF0YUFzc2V0PiMxCiAgICAgICAgPG9wdGlvbiBuYW1lPSJvbj0xIiBzdHJpbmdzPSIkV1JJVEVfRklMRSQiIC8+CiA8b3B0aW9uIG5hbWU9Im9mZj0wIiAKc3RyaW5ncz0iJFdSSVRFX0ZJTEUkIiAvPgogICAgICAgPG9wdGlvbiBuYW1lPSJjb20uYWNwX2NvbmZfc2VjbGVjdF9zZWNsZWN0X3N5bmNfZGV2aWNlX2FjdF9yaWNrLmZpbGVfY29kZV9vbl9mdW5jdGlvbl9haW1sb2NrZmZiYXNlNjRfc2V0X2FpbWxvY2tfYXV0b19jd3MudW5jcmFjay5saXN0PTEiIHN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9ImNvbS5hY3BfY29uZl9zZWNsZWN0X3NlY2xlY3Rfc3luY19kZXZpY2VfYWN0X3JpY2suZmlsZV9jb2RlX29uX2Z1bmN0aW9uX2FpbWxvY2tmZmJhc2U2NF9zZXRfYWltbG9ja19hdXRvX2N3cy51bmNyYWNrLmxpc3Q9MSIKc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0iY29tLmFjcF9jb25mX3NlY2xlY3Rfc2VjbGVjdF9zeW5jX2RldmljZV9hY3Rfcmljay5maWxlX2NvZGVfb25fZnVuY3Rpb25fYWltbG9ja2ZmYmFzZTY0X3NldF9haW1sb2NrX2F1dG9fY3dzLnVuY3JhY2subGlzdD0xIiBzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJEdWNOYW0iIGJvb2xlYW49IjEiIC8+CiAgICAgIDxBc3NldCREYXRhQXNzZXQ+CiAgPC9wcm9qZWN0Pgo8cHJvamVjdCB2ZXJzaW9uPSIzIj4gI2tldCBiYWkKICAgICAgPEFzc2V0JERhdGFBc3NldD4gCiA8b3B0aW9uIG5hbWU9ImFjcF9jbGljaz0xIiBzdHJpbmdzPSIkV1JJVEVfUkVHVUxBVE9SX0RBVEEkIiAvPgogPG9wdGlvbiBuYW1lPSJvbl9jb20uZHRzLmZyZWVmaXJldGhfbGF1bmNoZXI9MSIgc3RyaW5ncz0iJFdSSVRFX1JFR1VMQVRPUl9EQVRBJCIgLz4KIDxvcHRpb24gbmFtZT0iY29tLnJlc3RvcmUtZGV2aWNlLmxhdW5jaGVyPTEiIHN0cmluZ3M9IiRXUklURV9SRUdVTEFUT1JfREFUQSQiIC8+CiA8b3B0aW9uIG5hbWU9IkR1Y05hbSIgYm9vbGVhbj0iMSIgLz4KICAgICAgPEFzc2V0JERhdGFBc3NldD4KICA8L3Byb2plY3Q+CgoK</string>
+			<key>com.dts.freefire</key>
+			<string>Shaking Center + Overhead Center Changed to when pulling the center, the center does not shake and fixes the overhead error</string>
+			<key>com.dts.freefire//</key>
+			<string>Path_com.dts.freefire= when pulling the center of gravity becomes heavy and changes to when pulling the center of gravity becomes super light and semi-headed</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string> 👑 ADMIN CHÍNH THỨC: Bảo Khanh 7m5 Media🍏
+&lt;contac&gt;
+Zalo:0886119381</string>
+	<key>PayloadDisplayName</key>
+	<string>Reglock Plus Trix V1</string>
+	<key>PayloadIdentifier</key>
+	<string>MobileConfig</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0000</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
